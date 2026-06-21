@@ -1,0 +1,10 @@
+{
+  "name": "quiniela-mundial-familiar",
+  "version": "1.0.0",
+  "description": "Página de la quiniela familiar para el Mundial 2026: pronósticos de todos y tabla de posiciones, actualizando en vivo.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}

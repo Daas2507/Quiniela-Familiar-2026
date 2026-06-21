@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🏆 QUINIELA FAMILIAR</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="cabecera">
+    <div class="cabecera__sello" aria-hidden="true">
+      <span class="cabecera__selloNum">26</span>
+      <span class="cabecera__selloTxt">FIFA</span>
+    </div>
+    <div class="cabecera__titulos">
+      <h1>🏆 QUINIELA FAMILIAR</h1>
+      <p class="cabecera__sub">MUNDIAL 2026</p>
+    </div>
+    <div class="cabecera__estado" id="estadoActualizacion">
+      <span class="punto-vivo" aria-hidden="true"></span>
+      <span id="textoActualizacion">conectando…</span>
+    </div>
+  </header>
+
+  <main class="contenido">
+
+    <section class="panel-superior">
+
+      <div class="panel-bloque panel-bloque--posiciones">
+        <h2 class="panel-bloque__titulo">Tabla de posiciones</h2>
+        <div class="tabla-posiciones-wrap">
+          <table class="tabla-posiciones">
+            <thead>
+              <tr>
+                <th class="col-pos">#</th>
+                <th class="col-nombre">Participante</th>
+                <th class="col-num" title="Resultados exactos acertados">Exactos</th>
+                <th class="col-num" title="Acertó ganador o empate, sin marcador exacto">Ganador</th>
+                <th class="col-num">Puntos</th>
+              </tr>
+            </thead>
+            <tbody id="cuerpoTablaPosiciones">
+            </tbody>
+          </table>
+        </div>
+        <p class="nota-puntos">
+          <strong>3</strong> pts por marcador exacto · <strong>1</strong> pt por acertar quién gana o el empate · <strong>0</strong> si no acierta.
+        </p>
+      </div>
+
+      <div class="panel-bloque panel-bloque--envivo">
+        <h2 class="panel-bloque__titulo">En este momento</h2>
+        <div id="bloqueEnVivo" class="lista-partidos lista-partidos--destacada">
+        </div>
+      </div>
+
+    </section>
+
+    <section class="seccion-hoy">
+      <h2 class="seccion-titulo">Partidos de hoy</h2>
+      <div id="listaHoy" class="lista-partidos">
+      </div>
+      <p id="sinPartidosHoy" class="vacio" hidden>No hay partidos programados para hoy.</p>
+    </section>
+
+    <section class="seccion-todos">
+      <h2 class="seccion-titulo">Calendario completo</h2>
+
+      <div class="filtros">
+        <input
+          type="search"
+          id="buscador"
+          class="filtros__buscar"
+          placeholder="Buscar equipo o jugador…"
+          autocomplete="off"
+        >
+        <div class="filtros__estados" id="filtrosEstado">
+          <button class="chip is-activo" data-filtro="todos">Todos</button>
+          <button class="chip" data-filtro="en_vivo">En vivo</button>
+          <button class="chip" data-filtro="programado">Por jugar</button>
+          <button class="chip" data-filtro="finalizado">Finalizados</button>
+        </div>
+      </div>
+
+      <div id="listaPartidos" class="lista-partidos">
+      </div>
+
+      <p id="sinResultados" class="vacio" hidden>
+        No encontramos partidos con ese filtro. Prueba con otro equipo o quita el filtro de estado.
+      </p>
+    </section>
+
+  </main>
+
+  <footer class="pie">
+    Quiniela familiar 2026 🏆
+  </footer>
+
+  <template id="plantillaSiguiente">
+    <div class="siguiente">
+      <p class="siguiente__etiqueta">No hay partidos en vivo ahora mismo. El siguiente es:</p>
+    </div>
+  </template>
+
+  <template id="plantillaPartido">
+    <article class="partido">
+      <header class="partido__cab">
+        <span class="partido__grupo"></span>
+        <span class="partido__estado"></span>
+      </header>
+
+      <div class="partido__marcador">
+        <div class="partido__equipo">
+          <span class="partido__nombreEquipo partido__nombreEquipo--local"></span>
+        </div>
+        <div class="partido__numeros">
+          <span class="partido__gol partido__gol--local">–</span>
+          <span class="partido__guion">:</span>
+          <span class="partido__gol partido__gol--visitante">–</span>
+        </div>
+        <div class="partido__equipo">
+          <span class="partido__nombreEquipo partido__nombreEquipo--visitante"></span>
+        </div>
+      </div>
+
+      <p class="partido__fecha"></p>
+
+      <button class="partido__toggle" type="button" aria-expanded="false">
+        Ver pronósticos de todos <span class="partido__flecha">▾</span>
+      </button>
+
+      <div class="partido__pronosticos" hidden>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

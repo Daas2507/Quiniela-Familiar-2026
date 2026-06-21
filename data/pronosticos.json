@@ -1,0 +1,1996 @@
+{
+  "participantes": [
+    "Ale",
+    "Azu",
+    "Corzo",
+    "Diego",
+    "Esteban",
+    "Isabel",
+    "Jeannette",
+    "Jimena",
+    "Juan Pablo",
+    "Karlish",
+    "Nando",
+    "Santiago",
+    "Sky",
+    "Titi"
+  ],
+  "pronosticos": [
+    {
+      "partidoId": "1",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-0",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "2",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "3",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "4",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "5",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-2",
+        "Sky": "0-0",
+        "Titi": "0-2"
+      }
+    },
+    {
+      "partidoId": "6",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "7",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "8",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-3",
+        "Sky": "0-0",
+        "Titi": "0-2"
+      }
+    },
+    {
+      "partidoId": "9",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "4-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "5-0",
+        "Sky": "0-0",
+        "Titi": "4-0"
+      }
+    },
+    {
+      "partidoId": "10",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-1",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "11",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "0-2"
+      }
+    },
+    {
+      "partidoId": "12",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-0",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "13",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "6-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "5-0",
+        "Sky": "0-0",
+        "Titi": "4-0"
+      }
+    },
+    {
+      "partidoId": "14",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "2-1"
+      }
+    },
+    {
+      "partidoId": "15",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-3",
+        "Sky": "0-0",
+        "Titi": "0-2"
+      }
+    },
+    {
+      "partidoId": "16",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "17",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "4-2",
+        "Sky": "0-0",
+        "Titi": "2-1"
+      }
+    },
+    {
+      "partidoId": "18",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-3",
+        "Sky": "0-0",
+        "Titi": "0-2"
+      }
+    },
+    {
+      "partidoId": "19",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-0",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "20",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-0",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "21",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "5-0",
+        "Sky": "0-0",
+        "Titi": "4-0"
+      }
+    },
+    {
+      "partidoId": "22",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "2-1"
+      }
+    },
+    {
+      "partidoId": "23",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "2-1"
+      }
+    },
+    {
+      "partidoId": "24",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-2",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "25",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-0",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "26",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-0",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "27",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-0",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "28",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "29",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-0",
+        "Sky": "0-0",
+        "Titi": "1-1"
+      }
+    },
+    {
+      "partidoId": "30",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-3",
+        "Sky": "0-0",
+        "Titi": "1-2"
+      }
+    },
+    {
+      "partidoId": "31",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "3-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-0",
+        "Sky": "0-0",
+        "Titi": "3-0"
+      }
+    },
+    {
+      "partidoId": "32",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "33",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "2-1"
+      }
+    },
+    {
+      "partidoId": "34",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-1",
+        "Sky": "0-0",
+        "Titi": "3-0"
+      }
+    },
+    {
+      "partidoId": "35",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-0",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "36",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-2",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "37",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "4-1",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "38",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "39",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "3-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-0",
+        "Sky": "0-0",
+        "Titi": "3-0"
+      }
+    },
+    {
+      "partidoId": "40",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-3",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "41",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-1",
+        "Sky": "0-0",
+        "Titi": "2-1"
+      }
+    },
+    {
+      "partidoId": "42",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "3-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "4-0",
+        "Sky": "0-0",
+        "Titi": "3-0"
+      }
+    },
+    {
+      "partidoId": "43",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "44",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-3",
+        "Sky": "0-0",
+        "Titi": "1-1"
+      }
+    },
+    {
+      "partidoId": "45",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "3-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "4-0",
+        "Sky": "0-0",
+        "Titi": "3-0"
+      }
+    },
+    {
+      "partidoId": "46",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-0",
+        "Sky": "0-0",
+        "Titi": "2-1"
+      }
+    },
+    {
+      "partidoId": "47",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "48",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-0",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "49",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-1",
+        "Sky": "0-0",
+        "Titi": "1-2"
+      }
+    },
+    {
+      "partidoId": "50",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-0",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "51",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-3",
+        "Sky": "0-0",
+        "Titi": "1-2"
+      }
+    },
+    {
+      "partidoId": "52",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "53",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "54",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-1",
+        "Sky": "0-0",
+        "Titi": "1-1"
+      }
+    },
+    {
+      "partidoId": "55",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-3",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "56",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "1-1"
+      }
+    },
+    {
+      "partidoId": "57",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "58",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-3",
+        "Sky": "0-0",
+        "Titi": "0-2"
+      }
+    },
+    {
+      "partidoId": "59",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "60",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "61",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-3",
+        "Sky": "0-0",
+        "Titi": "1-1"
+      }
+    },
+    {
+      "partidoId": "62",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-0",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "63",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-3",
+        "Sky": "0-0",
+        "Titi": "1-0"
+      }
+    },
+    {
+      "partidoId": "64",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-3",
+        "Sky": "0-0",
+        "Titi": "1-2"
+      }
+    },
+    {
+      "partidoId": "65",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "66",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-3",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-3",
+        "Sky": "0-0",
+        "Titi": "1-2"
+      }
+    },
+    {
+      "partidoId": "67",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-3",
+        "Sky": "0-0",
+        "Titi": "0-3"
+      }
+    },
+    {
+      "partidoId": "68",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "2-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "3-1",
+        "Sky": "0-0",
+        "Titi": "2-0"
+      }
+    },
+    {
+      "partidoId": "69",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-3",
+        "Sky": "0-0",
+        "Titi": "0-2"
+      }
+    },
+    {
+      "partidoId": "70",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "1-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "1-2",
+        "Sky": "0-0",
+        "Titi": "0-1"
+      }
+    },
+    {
+      "partidoId": "71",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-1",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "2-1",
+        "Sky": "0-0",
+        "Titi": "0-2"
+      }
+    },
+    {
+      "partidoId": "72",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-2",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-4",
+        "Sky": "0-0",
+        "Titi": "0-3"
+      }
+    },
+    {
+      "partidoId": "73",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "74",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "75",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "76",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "77",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "78",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "79",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "80",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "81",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "82",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "83",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "84",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "85",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "86",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "87",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "88",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "89",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "90",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "91",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "92",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "93",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "94",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "95",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "96",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "97",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "98",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "99",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "100",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "101",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "102",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "103",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    },
+    {
+      "partidoId": "104",
+      "porPersona": {
+        "Ale": "0-0",
+        "Azu": "0-0",
+        "Corzo": "0-0",
+        "Diego": "0-0",
+        "Esteban": "0-0",
+        "Isabel": "0-0",
+        "Jeannette": "0-0",
+        "Jimena": "0-0",
+        "Juan Pablo": "0-0",
+        "Karlish": "0-0",
+        "Nando": "0-0",
+        "Santiago": "0-0",
+        "Sky": "0-0",
+        "Titi": "0-0"
+      }
+    }
+  ]
+}
