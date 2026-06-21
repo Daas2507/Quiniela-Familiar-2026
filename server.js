@@ -26,7 +26,7 @@ function cargarEnv() {
 }
 
 const ENV = cargarEnv();
-const URL_CSV_SHEET = ENV.GOOGLE_SHEET_CSV_URL || '';
+const URL_CSV_SHEET = process.env.GOOGLE_SHEET_CSV_URL || ENV.GOOGLE_SHEET_CSV_URL || '';
 const USANDO_SHEET_REAL = Boolean(URL_CSV_SHEET);
 
 const DURACION_CACHE_MS = 15 * 1000; // 15 segundos
