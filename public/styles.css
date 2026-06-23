@@ -159,6 +159,7 @@ body::before {
 }
  
 .panel-bloque {
+  max-width: 420px;
   background: #fff;
   border: 1px solid var(--linea);
   border-radius: var(--radio);
