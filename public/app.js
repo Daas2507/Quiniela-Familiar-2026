@@ -321,8 +321,6 @@ function renderTablaPosiciones() {
     tr.innerHTML = `
       <td class="col-pos">${indice + 1}</td>
       <td class="col-nombre">${fila.nombre}</td>
-      <td class="col-num">${fila.exactos}</td>
-      <td class="col-num">${fila.aciertosGanador}</td>
       <td class="puntos-total">${fila.puntos}</td>
     `;
     cuerpo.appendChild(tr);
