@@ -1637,18 +1637,18 @@
       "porPersona": {
         "Ale": "0-1",
         "Azu": "0-1",
-        "Corzo": "0-0",
+        "Corzo": "1-2",
         "Diego": "1-0",
-        "Esteban": "0-0",
-        "Isabel": "0-0",
-        "Jeannette": "0-0",
+        "Esteban": "1-2",
+        "Isabel": "0-2",
+        "Jeannette": "1-2",
         "Jimena": "2-1",
         "Juan Pablo": "2-0",
-        "Karlish": "0-0",
+        "Karlish": "1-1",
         "Nando": "1-0",
-        "Santiago": "0-0",
+        "Santiago": "1-2",
         "Sky": "0-0",
-        "Titi": "0-0"
+        "Titi": "1-2"
       }
     },
     {
@@ -1656,18 +1656,18 @@
       "porPersona": {
         "Ale": "3-0",
         "Azu": "3-0",
-        "Corzo": "2-0",
-        "Diego": "0-0",
-        "Esteban": "0-0",
-        "Isabel": "0-0",
-        "Jeannette": "0-0",
+        "Corzo": "2-1",
+        "Diego": "2-0",
+        "Esteban": "3-0",
+        "Isabel": "4-0",
+        "Jeannette": "2-1",
         "Jimena": "4-1",
         "Juan Pablo": "2-0",
-        "Karlish": "0-0",
+        "Karlish": "3-1",
         "Nando": "3-1",
-        "Santiago": "0-0",
+        "Santiago": "2-1",
         "Sky": "2-0",
-        "Titi": "0-0"
+        "Titi": "3-0"
       }
     },
     {
@@ -1675,18 +1675,18 @@
       "porPersona": {
         "Ale": "1-1",
         "Azu": "1-1",
-        "Corzo": "0-0",
+        "Corzo": "2-1",
         "Diego": "2-1",
-        "Esteban": "0-0",
-        "Isabel": "0-0",
-        "Jeannette": "0-0",
+        "Esteban": "2-1",
+        "Isabel": "1-0",
+        "Jeannette": "2-1",
         "Jimena": "3-1",
         "Juan Pablo": "2-2",
         "Karlish": "0-0",
-        "Nando": "0-0",
-        "Santiago": "0-0",
+        "Nando": "2-1",
+        "Santiago": "2-0",
         "Sky": "2-0",
-        "Titi": "0-0"
+        "Titi": "2-1"
       }
     },
     {
