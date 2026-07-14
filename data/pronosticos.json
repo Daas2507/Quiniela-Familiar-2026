@@ -1921,39 +1921,39 @@
     {
       "partidoId": "101",
       "porPersona": {
-        "Ale": "0-0",
-        "Azu": "0-0",
+        "Ale": "1-2",
+        "Azu": "2-3",
         "Corzo": "0-0",
-        "Diego": "0-0",
-        "Esteban": "0-0",
-        "Isabel": "0-0",
+        "Diego": "2-1",
+        "Esteban": "3-1",
+        "Isabel": "1-2",
         "Jeannette": "0-0",
-        "Jimena": "0-0",
-        "Juan Pablo": "0-0",
-        "Karlish": "0-0",
-        "Nando": "0-0",
-        "Santiago": "0-0",
-        "Sky": "0-0",
-        "Titi": "0-0"
+        "Jimena": "2-1",
+        "Juan Pablo": "2-3",
+        "Karlish": "2-2",
+        "Nando": "2-2",
+        "Santiago": "2-1",
+        "Sky": "3-2",
+        "Titi": "2-3"
       }
     },
     {
       "partidoId": "102",
       "porPersona": {
-        "Ale": "0-0",
-        "Azu": "0-0",
+        "Ale": "1-1",
+        "Azu": "2-2",
         "Corzo": "0-0",
-        "Diego": "0-0",
-        "Esteban": "0-0",
-        "Isabel": "0-0",
+        "Diego": "3-2",
+        "Esteban": "1-2",
+        "Isabel": "2-2",
         "Jeannette": "0-0",
-        "Jimena": "0-0",
-        "Juan Pablo": "0-0",
-        "Karlish": "0-0",
-        "Nando": "0-0",
-        "Santiago": "0-0",
-        "Sky": "0-0",
-        "Titi": "0-0"
+        "Jimena": "2-2",
+        "Juan Pablo": "2-1",
+        "Karlish": "2-2",
+        "Nando": "1-2",
+        "Santiago": "2-1",
+        "Sky": "2-1",
+        "Titi": "2-2"
       }
     },
     {
